@@ -37,3 +37,6 @@ site
 
 # Sensitive credentials
 *-credentials.yaml
+
+postgres-data
+package-lock.json
